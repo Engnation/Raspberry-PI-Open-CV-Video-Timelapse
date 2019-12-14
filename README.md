@@ -1,6 +1,6 @@
-#Raspberry PI Open CV Video Timelaspe Video & Still Capture Repository
+# Raspberry PI Open CV Video Timelaspe Video & Still Capture Repository
 
-##Description
+## Description
 
 This repository contains Python scripts for capturing continuous video and timelapse still frame images from an external camera using OpenCV.
 
