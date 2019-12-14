@@ -4,4 +4,4 @@
 
 This repository contains Python scripts for capturing continuous video and timelapse still frame images from an external camera using OpenCV.
 
-![Image of growing hydroponic Lettuce](https://github.com/Engnation/Raspberry-PI-Open-CV-Video-Timelapse/Lettuce_1.png) 
+![Image of growing hydroponic Lettuce](Lettuce_1.png) 
